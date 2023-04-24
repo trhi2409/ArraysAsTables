@@ -45,6 +45,12 @@ using ArraysAsTables;
 ```
 
 
+## Screenshots
+
+- Array printing
+
+    ![Array Printing](https://media.discordapp.net/attachments/728303111663517756/1100124526886527136/image.png?width=1014&height=70)
+
 ## Roadmap
 
 - Add control of Array printing padding & size (Which will support higher numbers)
