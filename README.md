@@ -44,6 +44,11 @@ using ArraysAsTables;
     AAT.Print2dArray(arr); //Prints the 2d Array as a table
 ```
 
+
+## Roadmap
+
+- Add control of Array printing padding & size (Which will support higher numbers)
+
 ## Authors
 
 - [@trhi2409](https://www.github.com/trhi2409)
