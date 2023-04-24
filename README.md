@@ -33,13 +33,13 @@ using ArraysAsTables;
 
     //1d Arrays
 
-    int[] arr = new int[100]; //Size Can be changed
+    int[] arr = new int[100]; //Example size
     AAT.FillArray(arr); //Fills the Array with random numbers up to 100,000
     AAT.PrintArray(arr); //Prints the Array as a table
 
     //2d Arrays
 
-    int[,] arr = new int[30,30]; //Size Can be changed
+    int[,] arr = new int[30,30]; //Example size
     AAT.Fill2dArray(arr); //Fills the 2d Array with random numbers up to 100,000
     AAT.Print2dArray(arr); //Prints the 2d Array as a table
 ```
