@@ -9,7 +9,7 @@ A simple dll (or source) made for my class
 
 - Print Array as a table
 - Print 2d Array (Matrix) as a table
-- Fill Arrays with random numbers (Can be changed)
+- Fill Arrays with random numbers up to 100,000 (Can be changed)
 - Fill 2d Arrays with random numbers up to 100,000 (Can be changed)
 
 ## Deployment
