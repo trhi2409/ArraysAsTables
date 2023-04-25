@@ -65,7 +65,7 @@ namespace ArraysAsTables
 			Random rnd = new Random();
 			for (int i = 0; i < arr.GetLength(0); i++)
 				for (int j = 0; j < arr.GetLength(1); j++)
-					arr[i, j] = rnd.Next(10000);
+					arr[i, j] = rnd.Next(100000);
 		}
 
 		//ממלא מספרים עד 100,000 במערך רגיל
@@ -73,7 +73,7 @@ namespace ArraysAsTables
 		{
 			Random rnd = new Random();
 			for (int i = 0; i < arr.Length; i++)
-				arr[i] = rnd.Next(10000);
+				arr[i] = rnd.Next(100000);
 		}
 	}
 }
